@@ -7,6 +7,6 @@ This is a Word Guessing Program Made Entirely in python, I was planning to make 
 
 #### Run the main.py file using python compiler
 
-`python3 ...`
+### `python3 ...`
 
-### Depends On Which Version you are using but I prefer python 3
+## Depends On Which Version you are using but I prefer python 3
